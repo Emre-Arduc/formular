@@ -1,5 +1,5 @@
-# formular
-Online-formular mit HTML, CSS, Javascript. 
+# Formular
+Formular mit HTML, CSS, Javascript. Name, Standort, E-mail und Passwort. Email-und Passwortkontrolle.
 
 Erde als Hintergrundbild.
 
